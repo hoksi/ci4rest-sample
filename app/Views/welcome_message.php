@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype html lang="ko">
 <html>
 	<head>
 		<title>Welcome to CodeIgniter</title>
@@ -108,9 +108,9 @@
 			<p class="version">version <?= CodeIgniter\CodeIgniter::CI_VERSION ?></p>
 
 			<div class="guide">
-				<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+				<p>이 페이지는 CodeIgniter에 의해 동적으로 생성되었습니다.</p>
 
-				<p>If you would like to edit this page you'll find it located at:</p>
+				<p>이 페이지를 수정하려면 다음 파일을 참조하십시오.</p>
 
 				<pre>
 				<code>
@@ -118,7 +118,7 @@
 				</code>
 				</pre>
 
-				<p>The corresponding controller for this page is found at:</p>
+				<p>이 페이지의 컨트롤러는</p>
 
 				<pre>
 				<code>
@@ -126,9 +126,10 @@
 				</code>
 				</pre>
 
-				<p>If you are exploring CodeIgniter for the very first time, you
-					should start by reading the
-					<a href="https://codeigniter4.github.io/CodeIgniter4">User Guide</a>.</p>
+				<p>
+					CodeIgniter에 대해 더 알고 싶다면
+					<a href="http://ci4doc.cikorea.net/">사용자 가이드(한국어)</a>를 읽고 시작하십시오.
+				</p>
 
 			</div>
 
