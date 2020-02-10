@@ -62,7 +62,7 @@ CI_ENVIRONMENT = development
 # database.tests.DBDriver = MySQLi
 
 database.default.hostname = 
-database.default.database = 
+database.default.database = database.sqlite3
 database.default.username = 
 database.default.password = 
 database.default.DBDriver = SQLite3
