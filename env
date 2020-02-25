@@ -14,7 +14,7 @@
 # ENVIRONMENT
 #--------------------------------------------------------------------
 
-CI_ENVIRONMENT = development
+# CI_ENVIRONMENT = production
 
 #--------------------------------------------------------------------
 # APP
@@ -22,7 +22,6 @@ CI_ENVIRONMENT = development
 
 # app.baseURL = ''
 # app.forceGlobalSecureRequests = false
-app.appTimezone = Asia/Seoul
 
 # app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'
 # app.sessionCookieName = 'ci_session'
@@ -61,12 +60,6 @@ app.appTimezone = Asia/Seoul
 # database.tests.username = root
 # database.tests.password = root
 # database.tests.DBDriver = MySQLi
-
-database.default.hostname = 
-database.default.database = ../database.sqlite3
-database.default.username = 
-database.default.password = 
-database.default.DBDriver = SQLite3
 
 #--------------------------------------------------------------------
 # CONTENT SECURITY POLICY
