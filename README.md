@@ -17,15 +17,15 @@ CodeIgniter 4를 이용하여 RESTful API를 만들고자 하는분들께 시작
 ## 테스트
 
 1. User List
-(https://github.com/hoksi/ci4rest-sample/blob/master/img/get.png)
+![get](./img/get.png)
 2. Add User
-(https://github.com/hoksi/ci4rest-sample/blob/master/img/post.png)
+![post](./img/post.png)
 3. Modify User
-(https://github.com/hoksi/ci4rest-sample/blob/master/img/put.png)
+![gputet](./img/put.png)
 4. Get User
-(https://github.com/hoksi/ci4rest-sample/blob/master/img/get2.png)
+![get2](./img/get2.png)
 5. Delete User
-(https://github.com/hoksi/ci4rest-sample/blob/master/img/del.png)
+![del](./img/del.png)
 
 
 ## CodeIgniter는 무엇인가요?
