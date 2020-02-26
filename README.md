@@ -16,15 +16,15 @@ CodeIgniter 4를 이용하여 RESTful API를 만들고자 하는분들께 시작
 
 ## 테스트
 
-1. User List
+1. User List : http://localhost:8080/api/user
 ![get](./img/get.png)
-2. Add User
+2. Add User : http://localhost:8080/api/user
 ![post](./img/post.png)
-3. Modify User
+3. Modify User : http://localhost:8080/api/user/{user_id}
 ![gputet](./img/put.png)
-4. Get User
+4. Get User : http://localhost:8080/api/user/{user_id}
 ![get2](./img/get2.png)
-5. Delete User
+5. Delete User : http://localhost:8080/api/user/{user_id}
 ![del](./img/del.png)
 
 
