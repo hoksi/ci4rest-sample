@@ -20,7 +20,7 @@ CodeIgniter 4를 이용하여 RESTful API를 만들고자 하는분들께 시작
 ## 설치 및 실행 방법
 
 1. git clone https://github.com/hoksi/ci4rest-sample.git
-2. composer update --no-dev
+2. composer install --no-dev
 3. copy `env-restsample` `.env`
 4. php spark serve
 5. http://localhost:8080/api/user 웹브라우저로 방문
