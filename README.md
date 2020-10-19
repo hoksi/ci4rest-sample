@@ -23,7 +23,7 @@ CodeIgniter 4를 이용하여 RESTful API를 만들고자 하는분들께 시작
 2. composer install --no-dev
 3. copy `env-restsample` `.env`
 4. php spark serve
-5. http://localhost:8080/api/user 웹브라우저로 방문
+5. 웹브라우저에 http://localhost:8080/api/user 접속
 
 ## 테스트
 
