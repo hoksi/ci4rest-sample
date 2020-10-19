@@ -38,7 +38,9 @@ CodeIgniter 4를 이용하여 RESTful API를 만들고자 하는분들께 시작
 5. Delete User : http://localhost:8080/api/user/{user_id}
 ![del](./img/del.png)
 
-## POSTMAN
+## POSTMAN Collection
+
+포스트맨을 이용하여 API 테스트를 합니다.
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/bf442a0ee000516b718a)
 
