@@ -17,6 +17,8 @@ CodeIgniter 4 웹 프레임워크를 사용하여 만든 RESTful API 샘플입�
 KCD(Korea Community Day) 2020 행사의 일환인 "CodeIgniter4만으로 RESTful api 구현하기" 트랙을 위해 작성되었습니다.
 CodeIgniter 4를 이용하여 RESTful API를 만들고자 하는분들께 시작점이 되기를 기대합니다.
 
+https://youtu.be/8iy5SCwHmKw
+
 ## 설치 및 실행 방법
 
 1. git clone https://github.com/hoksi/ci4rest-sample.git
